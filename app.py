@@ -7,7 +7,7 @@ import os
 # 1. การตั้งค่าหน้าเว็บ
 st.set_page_config(layout="wide", page_title="ระบบตารางเปรียบเทียบราคาจัดซื้อ")
 
-st.title("สวัสดีเหล่า MANGO ทั้งหลาย🥭)")
+st.title("สวัสดีเหล่า MANGO ทั้งหลาย🥭")
 st.markdown("---")
 st.markdown("### 💡 วิธีใช้งาน")
 st.markdown("1. ใส่ **Gemini API Key** และเลือก **ระดับความฉลาดของ AI** (แนะนำรุ่น Pro สำหรับไฟล์ PDF ซับซ้อน)")
